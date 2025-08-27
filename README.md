@@ -19,4 +19,20 @@ This repository contains solutions to Database (SQL) problems to help  interview
 | [1801-average-time-of-process-per-machine](https://github.com/Sumit19dhama/Database_50/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Sumit19dhama/Database_50/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sumit19dhama/Database_50/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumit19dhama/Database_50/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumit19dhama/Database_50/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumit19dhama/Database_50/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Matrix
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumit19dhama/Database_50/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
