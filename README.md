@@ -13,6 +13,7 @@ This repository contains solutions to Database (SQL) problems to help  interview
 | [1258-article-views-i](https://github.com/Sumit19dhama/Database_50/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sumit19dhama/Database_50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sumit19dhama/Database_50/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/Sumit19dhama/Database_50/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Sumit19dhama/Database_50/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sumit19dhama/Database_50/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
