@@ -23,6 +23,7 @@ This repository contains solutions to Database (SQL) problems to help  interview
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumit19dhama/Database_50/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Sumit19dhama/Database_50/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,9 @@ This repository contains solutions to Database (SQL) problems to help  interview
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sumit19dhama/Database_50/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Sumit19dhama/Database_50/tree/master/3748-sort-matrix-by-diagonals) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/Sumit19dhama/Database_50/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
